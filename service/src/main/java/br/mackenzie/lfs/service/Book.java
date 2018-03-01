@@ -15,7 +15,8 @@ public class Book {
     private String author;
 
     //region constructors
-    public Book () { }
+    public Book() {
+    }
 
     public Book(String title, String author) {
         this.title = title;

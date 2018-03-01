@@ -15,7 +15,8 @@ public class TodoItem {
     private String description;
 
     //region constructors
-    public TodoItem () { }
+    public TodoItem() {
+    }
 
     public TodoItem(String title, String description) {
         this.title = title;
